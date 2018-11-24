@@ -1,0 +1,21 @@
+Chimezie Metu- Oeste- San Antonio Spurs- A- 35- Pases- 2.08- 110- 180- 35- 61- 21583
+Stephen Curry- Oeste- Golden State Warriors- P- 95- Tiro- 2.01- 177- 125- 66- 32- 31212
+Michael Jordan- Este- Chicago Bulls- A- 45- Pases- 2.08- 110- 180- 35- 61- 21583
+Kevin Durant- Oeste- Golden State Warriors- B- 78- Tiro- 2.01- 177- 125- 66- 32- 31212
+John Durant- Oeste- Golden State Warriors- B- 67- Tiro- 1.91- 874- 248- 55- 42- 34252
+Roger Taylor- Este- Miami Heat- B- 65- Tiro- 2.112- 548- 345- 19- 54- 548329
+George Mikan- Oeste- Chicago Bulls- B- 98- Pases- 1.95- 129- 116- 123- 17- 66284
+Bob Pettit- Este- Dallas Maverics- A- 64- Tiro- 2.08- 314- 77- 157- 66- 58645
+Oscar Robertson- Este- Miami Heat- P- 60- Drible- 2.00- 292- 104- 204- 41- 82265
+Wilt Chamberlain- Oeste- Golden State Warriors- B- 33- Pases- 2.11- 355- 95- 93- 89- 31299
+Kareem Abdul Jabbar- Oeste- Boston Celtics- P- 48- Tiro- 2.04- 340- 51- 196- 12- 27632
+Bill Russell- Este- Houston Rockets- A- 86- Drible- 2.08- 77- 97- 91- 96- 78744
+Hakeem Olajuwon- Este- Los Angeles Lakers- B- 44- Pases- 1.94- 397- 75- 201- 35- 92401
+Julius Erving- Oeste- Chicago Bulls- A- 83- Tiro- 2.11- 100- 67- 47- 44- 68344
+Larry Bird- Oeste- Dallas Maverics- P- 71- Drible- 1.90- 284- 54- 109- 45- 69078
+Robert Parish- Este- Miami Heat- B- 84- Pases- 2.06- 176- 74- 157- 30- 21307
+Isiah Thomas- Este- Golden State Warriors- P- 85- Tiro- 2.05- 188- 76- 216- 50- 31808
+Magic Johnson- Oeste- Boston Celtics- A- 67- Drible- 1.93- 232- 86- 113- 41- 18348
+Moses Malone- Oeste- Houston Rockets- B- 81- Pases- 2.00- 230- 57- 100- 90- 45643
+Jerry West- Este- Los Angeles Lakers- A- 73- Tiro- 1.99- 247- 78- 102- 84- 34686
+Kevin McHale- Este- Chicago Bulls- P- 96- Drible- 2.13- 154- 40- 223- 49- 38957

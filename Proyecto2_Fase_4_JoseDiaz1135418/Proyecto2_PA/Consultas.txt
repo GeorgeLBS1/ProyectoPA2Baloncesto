@@ -1,0 +1,286 @@
+Nombre: Chimezie Metu
+Conferencia: Oeste
+Equipo: San Antonio Spurs
+posicion: A
+Potencia: 35
+Habilidad: Pases
+Altura(m): 2.08
+Puntos anotados: 110
+Robados: 180
+Rebotes: 35
+Tapones: 61
+Votos: 21583
+
+Nombre: Stephen Curry
+Conferencia: Oeste
+Equipo: Golden State Warriors
+posicion: P
+Potencia: 95
+Habilidad: Tiro
+Altura(m): 2.01
+Puntos anotados: 177
+Robados: 125
+Rebotes: 66
+Tapones: 32
+Votos: 31212
+
+Nombre: Michael Jordan
+Conferencia: Este
+Equipo: Chicago Bulls
+posicion: A
+Potencia: 45
+Habilidad: Pases
+Altura(m): 2.08
+Puntos anotados: 110
+Robados: 180
+Rebotes: 35
+Tapones: 61
+Votos: 21583
+
+Nombre: Kevin Durant
+Conferencia: Oeste
+Equipo: Golden State Warriors
+posicion: B
+Potencia: 78
+Habilidad: Tiro
+Altura(m): 2.01
+Puntos anotados: 177
+Robados: 125
+Rebotes: 66
+Tapones: 32
+Votos: 31212
+
+Nombre: John Durant
+Conferencia: Oeste
+Equipo: Golden State Warriors
+posicion: B
+Potencia: 67
+Habilidad: Tiro
+Altura(m): 1.91
+Puntos anotados: 874
+Robados: 248
+Rebotes: 55
+Tapones: 42
+Votos: 34252
+
+Nombre: Roger Taylor
+Conferencia: Este
+Equipo: Miami Heat
+posicion: B
+Potencia: 65
+Habilidad: Tiro
+Altura(m): 2.112
+Puntos anotados: 548
+Robados: 345
+Rebotes: 19
+Tapones: 54
+Votos: 548329
+
+Nombre: George Mikan
+Conferencia: Oeste
+Equipo: Chicago Bulls
+posicion: B
+Potencia: 98
+Habilidad: Pases
+Altura(m): 1.95
+Puntos anotados: 129
+Robados: 116
+Rebotes: 123
+Tapones: 17
+Votos: 66284
+
+Nombre: Bob Pettit
+Conferencia: Este
+Equipo: Dallas Maverics
+posicion: A
+Potencia: 64
+Habilidad: Tiro
+Altura(m): 2.08
+Puntos anotados: 314
+Robados: 77
+Rebotes: 157
+Tapones: 66
+Votos: 58645
+
+Nombre: Oscar Robertson
+Conferencia: Este
+Equipo: Miami Heat
+posicion: P
+Potencia: 60
+Habilidad: Drible
+Altura(m): 2
+Puntos anotados: 292
+Robados: 104
+Rebotes: 204
+Tapones: 41
+Votos: 82265
+
+Nombre: Wilt Chamberlain
+Conferencia: Oeste
+Equipo: Golden State Warriors
+posicion: B
+Potencia: 33
+Habilidad: Pases
+Altura(m): 2.11
+Puntos anotados: 355
+Robados: 95
+Rebotes: 93
+Tapones: 89
+Votos: 31299
+
+Nombre: Kareem Abdul Jabbar
+Conferencia: Oeste
+Equipo: Boston Celtics
+posicion: P
+Potencia: 48
+Habilidad: Tiro
+Altura(m): 2.04
+Puntos anotados: 340
+Robados: 51
+Rebotes: 196
+Tapones: 12
+Votos: 27632
+
+Nombre: Bill Russell
+Conferencia: Este
+Equipo: Houston Rockets
+posicion: A
+Potencia: 86
+Habilidad: Drible
+Altura(m): 2.08
+Puntos anotados: 77
+Robados: 97
+Rebotes: 91
+Tapones: 96
+Votos: 78744
+
+Nombre: Hakeem Olajuwon
+Conferencia: Este
+Equipo: Los Angeles Lakers
+posicion: B
+Potencia: 44
+Habilidad: Pases
+Altura(m): 1.94
+Puntos anotados: 397
+Robados: 75
+Rebotes: 201
+Tapones: 35
+Votos: 92401
+
+Nombre: Julius Erving
+Conferencia: Oeste
+Equipo: Chicago Bulls
+posicion: A
+Potencia: 83
+Habilidad: Tiro
+Altura(m): 2.11
+Puntos anotados: 100
+Robados: 67
+Rebotes: 47
+Tapones: 44
+Votos: 68344
+
+Nombre: Larry Bird
+Conferencia: Oeste
+Equipo: Dallas Maverics
+posicion: P
+Potencia: 71
+Habilidad: Drible
+Altura(m): 1.9
+Puntos anotados: 284
+Robados: 54
+Rebotes: 109
+Tapones: 45
+Votos: 69078
+
+Nombre: Robert Parish
+Conferencia: Este
+Equipo: Miami Heat
+posicion: B
+Potencia: 84
+Habilidad: Pases
+Altura(m): 2.06
+Puntos anotados: 176
+Robados: 74
+Rebotes: 157
+Tapones: 30
+Votos: 21307
+
+Nombre: Isiah Thomas
+Conferencia: Este
+Equipo: Golden State Warriors
+posicion: P
+Potencia: 85
+Habilidad: Tiro
+Altura(m): 2.05
+Puntos anotados: 188
+Robados: 76
+Rebotes: 216
+Tapones: 50
+Votos: 31808
+
+Nombre: Magic Johnson
+Conferencia: Oeste
+Equipo: Boston Celtics
+posicion: A
+Potencia: 67
+Habilidad: Drible
+Altura(m): 1.93
+Puntos anotados: 232
+Robados: 86
+Rebotes: 113
+Tapones: 41
+Votos: 18348
+
+Nombre: Moses Malone
+Conferencia: Oeste
+Equipo: Houston Rockets
+posicion: B
+Potencia: 81
+Habilidad: Pases
+Altura(m): 2
+Puntos anotados: 230
+Robados: 57
+Rebotes: 100
+Tapones: 90
+Votos: 45643
+
+Nombre: Jerry West
+Conferencia: Este
+Equipo: Los Angeles Lakers
+posicion: A
+Potencia: 73
+Habilidad: Tiro
+Altura(m): 1.99
+Puntos anotados: 247
+Robados: 78
+Rebotes: 102
+Tapones: 84
+Votos: 34686
+
+Nombre: Kevin McHale
+Conferencia: Este
+Equipo: Chicago Bulls
+posicion: P
+Potencia: 96
+Habilidad: Drible
+Altura(m): 2.13
+Puntos anotados: 154
+Robados: 40
+Rebotes: 223
+Tapones: 49
+Votos: 38957
+
+Nombre: 
+Conferencia: 
+Equipo: 
+posicion: 
+Potencia: 0
+Habilidad: 
+Altura(m): 0
+Puntos anotados: 0
+Robados: 0
+Rebotes: 0
+Tapones: 0
+Votos: 0
+
